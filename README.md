@@ -5,6 +5,12 @@
 
 ---
 
+## My Contact Information
+
+My Email Address: berryzhu1998@outlook.com
+
+---
+
 ## A Brief Introduction
 
 This repository is currently focused on creating compilations of my own original works regarding VOCALOID songs production.
@@ -25,11 +31,11 @@ My interest of music production emerged long time ago, probably ever since I kin
 
 My major focus for now is to continue producing more songs based on VOCALOID voicebank tuned singing, and my first compilation is already planned and established. I will focus on using VOCALOID China female Chinese voicebank Yuezheng Ling (乐正绫) and produce six to seven songs for this compilation. This is still a tentative plan though and is always subject to change, but I will try my best to stick with it and keep up my progress.
 
-> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo)*<br/>
-> Songs List:
->> 1. Oneiric Reality (浮梦) *(Published 11/2017)*
->> 2. Happy Birthday, Ling! (阿绫生日快乐) *(Published 04/2018)*
->> 3. Shimmering Breeze (和风秋下) *(WIP since 01/2018)*
+> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo)*
+>> Songs List:<br/>
+>> 1. Oneiric Reality (浮梦) *(Published 11/2017)*<br/>
+>> 2. Happy Birthday, Ling! (阿绫生日快乐) *(Published 04/2018)*<br/>
+>> 3. Shimmering Breeze (和风秋下) *(WIP since 01/2018)*<br/>
 >> *... (Other songs coming up soon)*
 
 ---
