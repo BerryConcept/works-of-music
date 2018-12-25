@@ -1,7 +1,7 @@
 # Welcome to My Works of Music
 
 > This repository is designed to store everything related to my own interest of music production.<br/>
-> **Not for commercial purpose**
+> **Not for commercial purposes**
 
 ---
 
