@@ -1,13 +1,14 @@
 # Welcome to My Works of Music
 
 > This repository is designed to store everything related to my own interest of music production.<br/>
-> **No commercial intentions for now**
+> **Not for commercial purpose**
 
 ---
 
 ## My Contact Information
 
 My Email Address: berryzhu1998@outlook.com
+My Alternate School Email Address: zhud4@rpi.edu
 
 ---
 
@@ -19,7 +20,11 @@ I am currently working on my own as an extracurricular composer, lyricist, arran
 
 I am an active college student majoring in fields like Computer Science and Cognitive Science, so music production is more of my pure interest rather than my expertise. Therefore, my works in this repository could appear as lacking some extents of professionality, and any aspects of help and suggestions for any potential improvements will be greatly appreciated!
 
-I used to be a YAMAHA eletric organ player and piano player when I was very young, so I am more confident of handling music with clean, concise and refreshing styles. Though I am always willing to try out other different styles as well, since as an amateur I don't want to confine myself to any particular single style or genre. 
+I used to be a Yamaha eletric organ player and piano player when I was very young, so I am more confident of handling music with clean, concise and refreshing styles. Though I am always willing to try out other different styles as well, since as an amateur I don't want to confine myself to any particular single style or genre. 
+
+Though my works primarily focus on VOCALOID songs, I do work on pure instrumental music, background music as well. Currently, I don't plan to do song productions with human singers though since I only have very limited ability to voice mixing. 
+
+---
 
 ## My Enthusiasm
 
@@ -31,10 +36,10 @@ My interest of music production emerged long time ago, probably ever since I kin
 
 My major focus for now is to continue producing more songs based on VOCALOID voicebank tuned singing, and my first compilation is already planned and established. I will focus on using VOCALOID China female Chinese voicebank Yuezheng Ling (乐正绫) and produce six to seven songs for this compilation. This is still a tentative plan though and is always subject to change, but I will try my best to stick with it and keep up my progress.
 
-> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo)*
+> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo)* (Published on [Netease Music (Chinese)](https://music.163.com/#/album?id=36716617) 11/2017)
 >> Songs List:<br/>
->> 1. Oneiric Reality (浮梦) *(Published 11/2017)*<br/>
->> 2. Happy Birthday, Ling! (阿绫生日快乐) *(Published 04/2018)*<br/>
+>> 1. Oneiric Reality (浮梦) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=517218614) 11/2017) (Promotion Video / Music Video Published on [Bilibili](https://www.bilibili.com/video/av29492490/) 08/2018)*<br/>
+>> 2. Happy Birthday, Ling! (阿绫生日快乐) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=552176689) 04/2018)*<br/> *\*This song is recomposed from Hills Original*
 >> 3. Shimmering Breeze (和风秋下) *(WIP since 01/2018)*<br/>
 >> *... (Other songs coming up soon)*
 
@@ -42,6 +47,8 @@ My major focus for now is to continue producing more songs based on VOCALOID voi
 
 ## Copyright and License
 
-All of my own original works up to now are noncommercial. I don't have any intentions or plans to make a living from my pure enthusiasm. And I am kindly request everyone to respect my works and **do not republish my efforts in any other places without my formal permissions**. Thanks for understanding!
+All of my own original works up to now are presenting under noncommercial purposes. I don't have any intentions or plans to make a living from my pure enthusiasm. And I am kindly request everyone to respect my works and **do not republish my efforts in any other places without my formal permissions**. If you intend to re-tune or recompose my works, or use my songs in any non-commercial ways, please contact me using the [contact information](https://github.com/BerryConcept/works-of-music/blob/master/README.md#my-contact-information) above. Thanks for understanding! :)
 
-README Last Updated 12/25/2018
+---
+
+V1.0 Last Updated 12/25/2018
