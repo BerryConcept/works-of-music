@@ -1,6 +1,7 @@
 # Welcome to My Works of Music
 
 > This repository is designed to store everything related to my own interest of music production. 
+
 > **No commercial intentions for now**
 
 ---
@@ -24,9 +25,13 @@ My interest of music production emerged long time ago, probably ever since I kin
 My major focus for now is to continue producing more songs based on VOCALOID voicebank tuned singing, and my first compilation is already planned and established. I will focus on using VOCALOID China female Chinese voicebank Yuezheng Ling (乐正绫) and produce six to seven songs for this compilation. This is still a tentative plan though and is always subject to change, but I will try my best to stick with it and keep up my progress.
 
 > My First Compilation: **Born to Vocalize (生而为歌)** (Yuezheng Ling voicebank solo)
+
 > Songs List:
+
 >> Oneiric Reality (浮梦) (Published on 11/2017)
+
 >> Shimmering Breeze (和风秋下) (WIP since 01/2018)
+
 >> *(Other songs coming up soon)*
 
 ## Copyright and License
