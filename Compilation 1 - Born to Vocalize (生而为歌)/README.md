@@ -1,6 +1,6 @@
 # Born to Vocalize 生而为歌
 
-## Compilation 1 *(Published 11/2017)*
+### Compilation 1 *(Published 11/2017)*
 
 ---
 
@@ -21,20 +21,20 @@ Promotion Video / Music Video Published on [Bilibili (Chinese)](https://www.bili
 
 ### 2. Happy Birthday, Ling! 阿绫生日快乐
 
-> Re-Composer: BerryConcept
-> Lyricist: BerryConcept
-> Arranger: BerryConcept
-> Vocaloid Tuner: BerryConcept
+> Re-Composer: BerryConcept<br/>
+> Lyricist: BerryConcept<br/>
+> Arranger: BerryConcept<br/>
+> Vocaloid Tuner: BerryConcept<br/>
 
 Song published on [Netease Music (Chinese)](https://music.163.com/#/song?id=552176689) 04/2018<br/> 
 \*This song is recomposed from Hills Original
 
 ### 3. Shimmering Breeze 和风秋下
 
-> Composer: BerryConcept
-> Lyricist: BerryConcept
-> Arranger: BerryConcept
-> Vocaloid Tuner: BerryConcept
+> Composer: BerryConcept<br/>
+> Lyricist: BerryConcept<br/>
+> Arranger: BerryConcept<br/>
+> Vocaloid Tuner: BerryConcept<br/>
 
 Work in progress since 01/2018
 Demo segment of the refrain piece is included in this repo.
