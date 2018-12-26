@@ -51,4 +51,17 @@ All of my own original works up to now are presenting under noncommercial purpos
 
 ---
 
-V1.0 Last Updated 12/25/2018
+## Notes
+
+The author names of my works may share aliases. The following names may appear as the representation of myself:
+* BerryConcept (Primarily in English environment)
+* 佰利VC (Netease Music)
+* 佰利Berry (Bilibili, Netease Music)
+* 佰利
+
+Chinese characters "佰利" are possible transliteration of my English name "Berry".<br/>
+My apologies for any potential confusions.
+
+---
+
+V1.1 Last Updated 12/26/2018
