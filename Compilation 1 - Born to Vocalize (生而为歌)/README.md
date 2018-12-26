@@ -1,6 +1,8 @@
 # Born to Vocalize 生而为歌
 
-### Compilation 1 *(Published 11/2017)*
+### Compilation 1 (Published 11/2017)
+
+![Born to Vocalize Cover Image](https://github.com/BerryConcept/works-of-music/blob/master/Compilation%201%20-%20Born%20to%20Vocalize%20(生而为歌)/Born%20to%20Vocalize%20(Cover).png)
 
 ---
 
@@ -36,7 +38,7 @@ Song published on [Netease Music (Chinese)](https://music.163.com/#/song?id=5521
 > Arranger: BerryConcept<br/>
 > Vocaloid Tuner: BerryConcept<br/>
 
-Work in progress since 01/2018
+Work in progress since 01/2018<br/>
 Demo segment of the refrain piece is included in this repo.
 
 ### Other songs coming up soon ...
