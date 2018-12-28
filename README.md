@@ -36,7 +36,8 @@ My interest of music production emerged long time ago, probably ever since I kin
 
 My major focus for now is to continue producing more songs based on VOCALOID voicebank tuned singing, and my first compilation is already planned and established. I will focus on using VOCALOID China female Chinese voicebank Yuezheng Ling (乐正绫) and produce six to seven songs for this compilation. This is still a tentative plan though and is always subject to change, but I will try my best to stick with it and keep up my progress.
 
-> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo) (Published on [Netease Music (Chinese)](https://music.163.com/#/album?id=36716617) 11/2017)*
+> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo) (Published on [Netease Music (Chinese)](https://music.163.com/#/album?id=36716617) 11/2017)*<br/>
+> Repo link for this compilation is [here](https://github.com/BerryConcept/works-of-music/tree/master/Compilation%201%20-%20Born%20to%20Vocalize%20(生而为歌)).
 >> Songs List:<br/>
 >> 1. Oneiric Reality (浮梦) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=517218614) 11/2017) (Promotion Video / Music Video Published on [Bilibili (Chinese)](https://www.bilibili.com/video/av29492490/) 08/2018)*<br/>
 >> 2. Happy Birthday, Ling! (阿绫生日快乐) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=552176689) 04/2018)*<br/> *\*This song is recomposed from Hills Original*
