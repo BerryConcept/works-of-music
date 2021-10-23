@@ -21,7 +21,7 @@ Song published on [Netease Music (Chinese)](https://music.163.com/#/song?id=5172
 Instrumental version published on [Netease Music (Chinese)](https://music.163.com/#/song?id=1329695230) 11/2018<br/>
 Promotion Video / Music Video Published on [Bilibili (Chinese)](https://www.bilibili.com/video/av29492490/) 08/2018<br/>
 
-### 2. Happy Birthday, Ling! 阿绫生日快乐
+### 2. Happy Birthday, Ling! 生日快乐
 
 > Re-Composer: BerryConcept<br/>
 > Lyricist: BerryConcept<br/>
@@ -39,7 +39,7 @@ Song published on [Netease Music (Chinese)](https://music.163.com/#/song?id=5521
 > Vocaloid Tuner: BerryConcept<br/>
 
 Work in progress since 01/2018<br/>
-Demo segment of the refrain piece is included in this repo.
+Demo segment of the refrain is included in this repo.
 
 ### Other songs coming up soon ...
 
