@@ -43,8 +43,9 @@ My main focus for now is to continue honing my skills in music production by cre
 >> 3. Shimmering Breeze (和风秋下) *(WIP since 01/2018)*<br/>
 >> *... (Other songs coming up soon)*
 
-> My Second Compilation: **Eco Resilience Games Original Soundtrack for Algae Bloom Dynamics (AR)** (App available now on iOS AppStore and soon on Google Play Store) 
-> Repo link for this compilation is [here](https://github.com/BerryConcept/works-of-music/tree/master/Compilation%202%20-%20Eco%20Resilience%20Games%20Original%20Soundtrack).
+> My Second Compilation: **Eco Resilience Games Original Soundtrack for Algae Bloom Dynamics (AR)** <br/>
+>(App available now on iOS AppStore and soon on Google Play Store) <br/>
+> Repo link for this compilation is [here](https://github.com/BerryConcept/works-of-music/tree/master/Compilation%202%20-%20Eco%20Resilience%20Games%20Original%20Soundtrack).<br/>
 >> Music Pieces:<br/>
 >> 1. Algae Bloom Dynamics (Full Ver.) *(Published 04/2020)*<br/>
 >> 2. Harmonic Resilience *(Published 05/2020)*<br/>
