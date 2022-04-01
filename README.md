@@ -35,12 +35,12 @@ My interest in music production emerged a long time ago, probably ever since I k
 
 My main focus for now is to continue honing my skills in music production by creating more sample pieces and producing more songs based on Vocaloid voicebank tuned singing. My first and second compilations were planned as follows. For the first compilation, I will continue focusing on using Vocaloid China female voicebank Yuezheng Ling (乐正绫) and produce around six to seven songs in total. The second compilation was dedicated to assisting my undergraduate research work in Eco Resilience Games Research Group at GSAS Program in RPI, where I was so proud to become a game programmer, a music composer, and a sound engineer for the development of the AR game project, Algae Bloom Dynamics. All works listed in the second compilation were the original soundtracks that got implemented into this game. This is still a tentative plan of my compilations and is still subject to change without notice, but I will try my best to stick with it and keep things updated.
 
-> My First Compilation: **Born to Vocalize (生而为歌)** *(Yuezheng Ling voicebank solo) (Published on [Netease Music (Chinese)](https://music.163.com/#/album?id=36716617) 11/2017)*<br/>
+> My First Compilation: **Born to Vocalize** *(Yuezheng Ling voicebank solo) (Published on [Netease Music (Chinese)](https://music.163.com/#/album?id=36716617) 11/2017)*<br/>
 > Repo link for this compilation is [here](https://github.com/BerryConcept/works-of-music/tree/master/Compilation%201%20-%20Born%20to%20Vocalize%20(生而为歌)).
 >> Songs:<br/>
->> 1. Oneiric Reality (浮梦) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=517218614) 11/2017) (Promotion Video / Music Video Published on [Bilibili (Chinese)](https://www.bilibili.com/video/av29492490/) 08/2018)*<br/>
->> 2. Happy Birthday, Ling! (生日快乐) *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=552176689) 04/2018)*<br/> *\*This song is recomposed from Hills Original*
->> 3. Shimmering Breeze (和风秋下) *(WIP since 01/2018)*<br/>
+>> 1. Oneiric Reality *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=517218614) 11/2017) (Promotion Video / Music Video Published on [Bilibili (Chinese)](https://www.bilibili.com/video/av29492490/) 08/2018)*<br/>
+>> 2. Happy Birthday, Ling! *(Published on [Netease Music (Chinese)](https://music.163.com/#/song?id=552176689) 04/2018)*<br/> *\*This song is recomposed from Hills Original*
+>> 3. Shimmering Breeze *(WIP since 01/2018)*<br/>
 >> *... (Other songs coming up soon)*
 
 > My Second Compilation: **Eco Resilience Games Original Soundtrack for Algae Bloom Dynamics (AR)** <br/>
@@ -64,13 +64,8 @@ All of my own original works up to now are presented for non-commercial purposes
 
 I go by multiple aliases. The following names may appear besides my works:
 * BerryConcept
-* 佰利VC
-* 佰利Berry
-* 佰利
-
-Chinese characters "佰利" are a possible transliteration of my English name "Berry".<br/>
-My apologies in advance for any potential confusion.
+* Berry
 
 ---
 
-V1.2 Last Updated 10/20/2021
+V1.4 Last Updated 03/31/2022
